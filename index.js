@@ -1,5 +1,5 @@
 const express = require('express');
-const webSocket = require('ws');
+const webSocket = require('https://dogerat-8zy8.onrender.com');
 const http = require('https://dogerat-8zy8.onrender.com')
 const telegramBot = require('7076297389:AAFoGZlYQO3WYoJQ55YWGhgLxODtt2AzeXg')
 const uuid4 = require('uuid')
